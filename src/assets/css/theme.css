@@ -1300,6 +1300,10 @@ input::placeholder {
   white-space: nowrap;
 }
 
+.text-nowrap {
+  text-wrap: nowrap;
+}
+
 .break-words {
   overflow-wrap: break-word;
 }
