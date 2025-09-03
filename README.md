@@ -1,21 +1,27 @@
-# Nextly - Landing Page Template with Next.js & Tailwind CSS
+# Freshcart – Free TailwindCSS Ecommerce HTML Template
+
 #### Preview
 
- - [Demo](https://themewagon.github.io/nextly/)
+- [Demo](https://themewagon.github.io/freshcart/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/nextly/)
+
+- [Download from ThemeWagon](https://themewagon.com/themes/freshcart/)
 
 ## Getting Started
 
 1. Clone Repository
+
 ```
-git clone https://github.com/themewagon/nextly.git
+git clone https://github.com/themewagon/freshcart.git
 ```
+
 2. Install Dependencies
+
 ```
 npm i
 ```
+
 3. Run the development server:
 
 ```bash
@@ -28,14 +34,14 @@ pnpm dev
 bun dev
 ```
 
-## Author 
+## Author
+
 ```
-Design and code is completely written by Surjith S M and development team. 
+Design and code is completely written by Surjith S M and development team.
 ```
 
 ## License
 
- - Design and Code is Copyright &copy; [@surjithctly](https://surjithctly.in/)
- - Licensed cover under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
-
+- Design and Code is Copyright &copy; [@Codescandy](https://codescandy.com/)
+- Licensed cover under [MIT]
+- Distributed by [ThemeWagon](https://themewagon.com)
