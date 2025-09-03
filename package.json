@@ -8,7 +8,7 @@
         "dev": "gulp",
         "build": "gulp build",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d dist",
+        "deploy": "node deploy.js",
         "format": "npx prettier --write .",
         "tailwind-viewer": "tailwind-config-viewer -o"
     },
