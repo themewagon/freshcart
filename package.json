@@ -2,7 +2,7 @@
     "name": "freshcart-tailwind-ecommerce-html-template",
     "version": "1.0.0",
     "description": "Download Free Freshcart Tailwind Ecommerce HTML Template",
-    "homepage": "https://github.com/themewagon/freshcart.git",
+    "homepage": "themewagon.github.io/freshcart",
     "main": "index.js",
     "scripts": {
         "dev": "gulp",
