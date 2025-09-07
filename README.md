@@ -1,4 +1,4 @@
-# Freshcart – Free TailwindCSS Ecommerce HTML Template
+# Freshcart – Free HTML TailwindCSS Ecommerce Template
 
 #### Preview
 
@@ -37,11 +37,11 @@ bun dev
 ## Author
 
 ```
-Design and code is completely written by Surjith S M and development team.
+Design and code is completely written by Codescandy and development team.
 ```
 
 ## License
 
-- Design and Code is Copyright &copy; [@Codescandy](https://codescandy.com/)
+- Design and Code is Copyright &copy; [Codescandy](https://codescandy.com/)
 - Licensed cover under [MIT]
 - Distributed by [ThemeWagon](https://themewagon.com)
